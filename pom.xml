@@ -13,7 +13,7 @@
     <packaging>jar</packaging>
     <version>7.2.0</version>
     <name>SpringSeed : Activiti : Server</name>
-    <description>基于Activiti的流程服务</description>
+    <description>基于Activiti框架的流程服务</description>
 
     <properties>
         <activiti-dependencies.version>7.2.0</activiti-dependencies.version>
