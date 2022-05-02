@@ -1,0 +1,8 @@
+spring:
+  datasource.url: jdbc:h2:mem:activiti
+  # jpa.database-platform: org.hibernate.dialect.H2Dialect
+
+springseed.activiti:
+  log:
+    task_event: true
+    process_event: true
